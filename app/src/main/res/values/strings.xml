@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan Database</string>
+
+    <string-array name="sex_array">
+        <item> Pilih Jenis Kelamin</item>
+        <item> Pria</item>
+        <item> Wanita</item>
+    </string-array>
+</resources>
